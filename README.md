@@ -18,3 +18,19 @@ By keeping “rapid image rendering” front and center, I chose architectures (
 
 **6. Future design approach?**  
 I’ll sketch high-level workflows first, then break them into microservices and data contracts—this keeps the design modular and testable.
+
+
+###  CS 250: Sprint Review and Retrospective  
+**Artifact:** Module 7 Sprint Review and Retrospective  
+**Course:** CS 250 – Software Development Lifecycle  
+
+####  Reflection
+
+**How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?**  
+I’ve learned that user stories are key to understanding what clients actually need. They helped me break big ideas into small, focused tasks that developers like me! can act on right away. Writing them from the user’s point of view kept my focus on usability and outcomes.
+
+**How do I approach developing programs? What Agile processes do I hope to incorporate into my future development work?**  
+I now approach development using short, focused iterations. I plan, build, and review quickly, thanks to Scrum. I really like the rhythm of sprints, daily stand-ups, and retrospectives. They help me stay organized and reflect on how to do better each time.
+
+**What does it mean to be a good team member in software development?**  
+To me, it means being reliable, communicating clearly, and helping your team succeed not just yourself. When I acted as Scrum Master, I saw how valuable teamwork and clear communication are. Even when life interrupted me during a sprint, Agile gave the structure to adapt and still move forward.
